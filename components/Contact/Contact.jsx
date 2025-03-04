@@ -41,11 +41,11 @@ export const Contact = () => {
                 <div className="contact-details">
                     <div className="contact-detail">
                         <img src={mail_icon} alt="" />
-                        <p>230819.it@rmkec.ac.in</p>
+                        <p>230248.it@rmkec.ac.in</p>
                     </div>
                     <div className="contact-detail">
                         <img src={call_icon} alt="" />
-                        <p>+91-9087654321</p>
+                        <p>+91-8754767312</p>
                     </div>
                     <div className="contact-detail">
                         <img src={location_icon} alt="" />
